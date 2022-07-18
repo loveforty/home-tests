@@ -13,7 +13,7 @@
 * To run:
   - All tests:
   ```bash
-  $ yarn wdio
+  $ yarn test
   ```
   - Time API suite:
   ```bash
